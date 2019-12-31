@@ -1,0 +1,3 @@
+git remote add upstream https://github.com/danielzumb/NodeJSPullTest.git
+
+git checkout -b newFileBranch -t upstream/master
